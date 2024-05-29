@@ -1,0 +1,10 @@
+baseURL = 'https://ericthrift.github.io'
+#relativeURLs = true
+languageCode = 'en-ca'
+copyright = "Copyright Eric Thrift"
+paginate = 50
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+[permalinks]
+ '/:' =  '/:slug/'
+
