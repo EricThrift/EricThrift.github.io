@@ -2,7 +2,7 @@
 title: Eric D Thrift, PhD
 featured_image: "/winnipeg-900x200.jpg"
 omit_header_text: true
-description: Sociocultural anthropologist, digital ethnography technician & curator, project manager. Circular migrant (Ulaanbaatar / Winnipeg).
+description: Sociocultural anthropologist, museum curator, circular migrant (Ulaanbaatar / Winnipeg).
 type: gallery
 layout: single
 ---
@@ -12,7 +12,7 @@ layout: single
         src="eric-thrift.jpg"
         alt="Eric Thrift in the metaverse"
         width="300px"
-        caption="Welcome to my portfolio page! I am a cultural anthropologist specializing in human-environmental interactions, mobile pastoralism, and globalization. I care deeply about culture and sustainability as priorities for global development. I believe that ethnography, and the humanities more generally, can have a positive role in shaping our understandings of the present and our visions for the future. The projects highlighted below illustrate some aspects of my professional work."
+        caption="Welcome to my portfolio page! I am a cultural anthropologist specializing in nomadic culture, heritage, and globalization. I care deeply about culture and sustainability as priorities for global development. I believe that ethnography, and the humanities more generally, can have a positive role in shaping our understandings of the present and our visions for the future. The projects highlighted below illustrate some aspects of my professional work."
         >}}
 
 <!-- Screenshot from the NAADAM Cashmere website, featuring images of models wearing cashmere sweaters with the text 'Ethical. Sustainable. 100% Cashmere.' -->
