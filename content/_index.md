@@ -24,8 +24,8 @@ layout: single
 {{< figure
     link="Thrift_sustainability-presentation.pdf"
     title="Untangling the ethics of 'sustainable' cashmere"
-    src="sustainable-cashmere-bayankhongor.png"
-    alt="Logo of the AVSF Sustainable Cashmere project in Bayankhongor, Mongolia."
+    src="20240729_134059.jpg"
+    alt="Goats at pasture in Selenge aimag, Mongolia"
     caption="In collaboration with the International Institute for the Study of Nomadic Civilizations under the auspices of UNESCO (IISNC), I have completed a SSHRC-funded pilot research project investigating narratives about ethics and sustainability in cashmere commodity chains. Although several clothing brands currently advertise *sustainable cashmere* products, there is no shared definition of what actually makes a garment \"sustainable\" or \"ethically-produced\". And unlike global brands, Mongolian herders often describe sustainability in terms of mobility rights, autonomy, and cultural survival. [Outputs from our project](https://mcdrc.org/cashmere) include five Mongolian-language reports, two open datasets comprising coded ethnographic interviews and marketing materials, and a bibliographic database."
     >}}
 
