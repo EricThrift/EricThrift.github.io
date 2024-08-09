@@ -1,4 +1,4 @@
-<figure class="ba b--light-gray br2 bg-white pa0 w-100 w-40-l ma0 ma3-l {{ with .Get "class" }}{{ . }}{{ end }}"{{- if .Get "id" -}} id="{{ .Get "id"}}"{{- end -}}>
+<figure class="ba b--light-gray br2 bg-white pa0 w-100 w-50-l ma0 ma3-l {{ with .Get "class" }}{{ . }}{{ end }}"{{- if .Get "id" -}} id="{{ .Get "id"}}"{{- end -}}>
     {{- if .Get "link" -}}
         <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
     {{- end -}}
@@ -12,7 +12,7 @@
     /><!-- Closing img tag -->
     {{- if .Get "link" }}</a>{{ end -}}
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
-        <figcaption class="ph4 pv2 lh-copy">
+        <figcaption class="ph4 pv2 lh-copy tl">
             <!-- {{ with .Get "alt" }}<small class="lh-solid">{{ . }}</small>{{ end }} -->
             {{ with (.Get "title") -}}
                 <h4>{{ . }}</h4>
